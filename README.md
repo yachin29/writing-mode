@@ -17,10 +17,11 @@ https://umeume.stars.ne.jp/writing-mode/sample.html
 ## 漢字にルビを振る
 ルビを振るには、ルビを振りたい漢字をrubyタグで囲み、漢字の後ろにrtタグ（ruby textの略）でルビを設定する。  
 
-```html:sample
+```html
 <h1><ruby>小倉<rt>おぐら</rt></ruby>百人一首</h1>
 
 <h2><ruby>柿本人麻呂<rt>かきのもと の ひとまろ</rt></ruby></h2>
-```/
+```
+
 
 
